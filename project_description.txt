@@ -1,0 +1,2 @@
+My project is developed as part of my academic assignment.
+It demonstrates the use of Git and GitHub for project version control.
